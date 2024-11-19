@@ -6,7 +6,3 @@
     // Mostrar el resultado con dos decimales usando printf
     printf("El descuento de EsSalud es: S/ %.2f", $descuento);
 ?>
-
-
-
-?>
